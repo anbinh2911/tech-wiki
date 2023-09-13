@@ -8,8 +8,8 @@
 
 ## Danh sách nội dung
 
-1. Ngôn ngữ lập trình
-2. Cơ sở dữ liệu.
-3. Design patterns.
-4. Cấu trúc dữ liệu và giải thuật.
-5. Khác.
+1. [Ngôn ngữ lập trình](./contents/programming-languages/).
+2. [Cơ sở dữ liệu](./contents/databases/).
+3. [Design patterns](./contents/design-patterns/).
+4. [Cấu trúc dữ liệu và giải thuật](./contents/dsa/).
+5. [Khác](./contents/others/).
