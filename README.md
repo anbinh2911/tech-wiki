@@ -8,8 +8,67 @@
 
 ## Danh sách nội dung
 
-1. [Ngôn ngữ lập trình](./contents/programming-languages/).
-2. [Cơ sở dữ liệu](./contents/databases/).
-3. [Design patterns](./contents/design-patterns/).
-4. [Cấu trúc dữ liệu và giải thuật](./contents/dsa/).
-5. [Khác](./contents/others/).
+- [Architecture](./contents/architecture/).
+
+  - Clean architect.
+  - MVC architect.
+
+- [Ngôn ngữ lập trình](./contents/programming-languages/).
+
+  - Golang.
+  - Java.
+  - Kotlin.
+  - HTML.
+  - CSS.
+  - Javascript.
+  - Python.
+  - Dart.
+
+- [Cơ sở dữ liệu](./contents/databases/).
+
+  - MongoDB.
+  - SQL.
+  - CassandraDB.
+  - Redis.
+
+- [Design patterns](./contents/design-patterns/).
+
+  - Singleton.
+  - Factory.
+  - Builder.
+
+- [Cấu trúc dữ liệu và giải thuật](./contents/dsa/).
+
+  - BigO.
+  - Stack.
+  - Queue.
+  - Hashmap.
+  - LinkedHashMap.
+  - List.
+  - LinkedList.
+
+- [Web Frameworks](./contents/web-frameworks/).
+
+  - Spring boot.
+  - Fiber.
+
+- [Testing](./contents/testing).
+
+  - Unit test.
+  - Integration test.
+  - Automation test.
+
+- [Security](./contents/security/).
+
+  - API Security.
+  - Data injecttion.
+  - JWT token.
+  - Paseto token.
+  - Oauth.
+  - Oauth2.
+
+- [Mobile](./contents/mobile/).
+
+  - Flutter.
+
+- [Khác](./contents/others/).
