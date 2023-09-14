@@ -31,6 +31,11 @@
   - CassandraDB.
   - Redis.
 
+- [Search engines](./contents/search-engines/).
+
+  - Elastic search.
+  - Solr.
+  
 - [Design patterns](./contents/design-patterns/).
 
   - Singleton.
