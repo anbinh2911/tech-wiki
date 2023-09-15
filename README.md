@@ -8,106 +8,106 @@
 
 ## Danh sách nội dung
 
-- [Architecture](./contents/architecture/Overview.md).
+### [Architecture](./contents/architecture/Overview.md)
 
-  - Clean architect.
-  - MVC architect.
-  - Microservices.
-  - Monolith.
+- Clean architect.
+- MVC architect.
+- Microservices.
+- Monolith.
 
-- [CI/CD](./contents/ci-cd/Overview.md).
+### [CI/CD](./contents/ci-cd/Overview.md)
 
-  - Docker.
-  - Kubernates.
-  - Jenkin.
+- Docker.
+- Kubernates.
+- Jenkin.
 
-- [Databases](./contents/databases/Overview.md).
+### [Databases](./contents/databases/Overview.md)
 
-  - CassandraDB.
-  - [MongoDB](./contents/databases/mongodb/Overview.md).
-  - SQL.
-  - Redis.
+- CassandraDB.
+- [MongoDB](./contents/databases/mongodb/Overview.md).
+- SQL.
+- Redis.
 
-- [Design patterns](./contents/design-patterns/Overview.md).
+### [Design patterns](./contents/design-patterns/Overview.md)
 
-  - Singleton.
-  - Factory.
-  - Builder.
+- Singleton.
+- Factory.
+- Builder.
 
-- [Data structure & Algorithm](./contents/dsa/Overview.md).
+### [Data structure & Algorithm](./contents/dsa/Overview.md)
 
-  - Data structures.
-    - BigO.
-    - Stack.
-    - Queue.
-    - Hashmap.
-    - LinkedHashMap.
-    - List.
-    - LinkedList.
-  - Algorithm
-    - Bubble sort.
-    - Insertion sort.
-    - Selection sort.
-    - Binary search.
-    - Inline search.
+- Data structures.
+  - BigO.
+  - Stack.
+  - Queue.
+  - Hashmap.
+  - LinkedHashMap.
+  - List.
+  - LinkedList.
+- Algorithm
+  - Bubble sort.
+  - Insertion sort.
+  - Selection sort.
+  - Binary search.
+  - Inline search.
 
-- [Message queue](./contents/message-queues/Overview.md).
+### [Message queue](./contents/message-queues/Overview.md)
   
-  - Apache Kafka.
-  - RabitMQ.
+- Apache Kafka.
+- RabitMQ.
 
-- [Mobile](./contents/mobile/Overview.md).
+### [Mobile](./contents/mobile/Overview.md)
 
-  - Flutter.
+- Flutter.
 
-- [Others](./contents/others/Overview.md).
+### [Others](./contents/others/Overview.md)
 
-  - Bash.
-  - Chocolatey.
-  - Commandline.
-  - Homebrew.
-  - Git.
-  - Postman.
+- Bash.
+- Chocolatey.
+- Commandline.
+- Homebrew.
+- Git.
+- Postman.
 
-- [Programming languages](./contents/programming-languages/Overview.md).
+### [Programming languages](./contents/programming-languages/Overview.md)
 
-  - Golang.
-  - Java.
-  - Kotlin.
-  - HTML.
-  - CSS.
-  - Javascript.
-  - Python.
-  - Dart.
+- Golang.
+- Java.
+- Kotlin.
+- HTML.
+- CSS.
+- Javascript.
+- Python.
+- Dart.
 
-- [Programming techniques](./contents/programming-techniques/Overview.md).
+### [Programming techniques](./contents/programming-techniques/Overview.md)
 
-  - Aspect Oriented Programming.
-  - Dependcies injection.
-  - Object Oriented Programming.
-  - Multithread Programming.
+- Aspect Oriented Programming.
+- Dependcies injection.
+- Object Oriented Programming.
+- Multithread Programming.
 
-- [Search engines](./contents/search-engines/Overview.md).
+### [Search engines](./contents/search-engines/Overview.md)
 
-  - Elastic search.
-  - Solr.
+- Elastic search.
+- Solr.
 
-- [Security](./contents/security/Overview.md).
+### [Security](./contents/security/Overview.md)
 
-  - API Security.
-  - Data injecttion.
-  - JWT token.
-  - Paseto token.
-  - Oauth.
-  - Oauth2.
+- API Security.
+- Data injecttion.
+- JWT token.
+- Paseto token.
+- Oauth.
+- Oauth2.
 
-- [Testing](./contents/testing).
+### [Testing](./contents/testing)
 
-  - Unit test.
-  - Integration test.
-  - Automation test.
+- Unit test.
+- Integration test.
+- Automation test.
 
-- [Web Frameworks](./contents/web-frameworks/Overview.md).
+### [Web Frameworks](./contents/web-frameworks/Overview.md)
 
-  - Spring boot.
-  - Fiber.
+- Spring boot.
+- Fiber.
