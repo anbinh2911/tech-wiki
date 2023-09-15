@@ -12,10 +12,26 @@
 
 > ***Lưu ý***: Tài liệu được tổng hợp từ document chính thức của MongoDB và dựa vào kinh nghiệm thực tế của tác giả.
 
+## Giới thiệu
+
+- MongoDB là một cơ sơ dữ liệu phi quan hệ (NoSQL).
+- Dữ liệu sẽ được lưu trữ dưới dạng json object được gọi là Document.
+
+```json
+{
+    "name": "MongoDB",
+    "type": "NoSQL",
+    "version": 7.0
+}
+```
+
+- MongoDB không có cấu trúc table rõ ràng như các cơ sở dữ liệu quan hệ (RDBMS).
+- Data sẽ được lưu trữ trong các Collection.
+
 ## Nội dung tìm hiểu
 
-- Installation.
-- Mongo CRUD Operation.
+- [Databases and Collections](MD1-Databases-Collections.md)
+- [Mongo CRUD Operation](MD2-CRUD.md).
 - Aggregation framework.
 - Data modeling.
 - Indexes.
