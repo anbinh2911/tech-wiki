@@ -30,6 +30,7 @@ db.myCollection.insertOne({ name: "Dark Lord" })
 ## Collections
 
 MongoDB lưu trữ Document trong các Collections.
+
 ![Collections-example](image.png)
 
 Để tạo một collection có thể làm như sau:
