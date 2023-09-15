@@ -13,7 +13,36 @@
   - Clean architect.
   - MVC architect.
 
-- [Ngôn ngữ lập trình](./contents/programming-languages/).
+- [Databases](./contents/databases/).
+
+  - MongoDB.
+  - SQL.
+  - CassandraDB.
+  - Redis.
+
+- [Design patterns](./contents/design-patterns/).
+
+  - Singleton.
+  - Factory.
+  - Builder.
+
+- [Data structure & Algorithm](./contents/dsa/).
+
+  - BigO.
+  - Stack.
+  - Queue.
+  - Hashmap.
+  - LinkedHashMap.
+  - List.
+  - LinkedList.
+
+  - [Mobile](./contents/mobile/).
+
+  - Flutter.
+
+- [Others](./contents/others/).
+
+- [Programming languages](./contents/programming-languages/).
 
   - Golang.
   - Java.
@@ -24,44 +53,10 @@
   - Python.
   - Dart.
 
-- [Cơ sở dữ liệu](./contents/databases/).
-
-  - MongoDB.
-  - SQL.
-  - CassandraDB.
-  - Redis.
-
 - [Search engines](./contents/search-engines/).
 
   - Elastic search.
   - Solr.
-  
-- [Design patterns](./contents/design-patterns/).
-
-  - Singleton.
-  - Factory.
-  - Builder.
-
-- [Cấu trúc dữ liệu và giải thuật](./contents/dsa/).
-
-  - BigO.
-  - Stack.
-  - Queue.
-  - Hashmap.
-  - LinkedHashMap.
-  - List.
-  - LinkedList.
-
-- [Web Frameworks](./contents/web-frameworks/).
-
-  - Spring boot.
-  - Fiber.
-
-- [Testing](./contents/testing).
-
-  - Unit test.
-  - Integration test.
-  - Automation test.
 
 - [Security](./contents/security/).
 
@@ -72,8 +67,13 @@
   - Oauth.
   - Oauth2.
 
-- [Mobile](./contents/mobile/).
+- [Testing](./contents/testing).
 
-  - Flutter.
+  - Unit test.
+  - Integration test.
+  - Automation test.
 
-- [Khác](./contents/others/).
+- [Web Frameworks](./contents/web-frameworks/).
+
+  - Spring boot.
+  - Fiber.
