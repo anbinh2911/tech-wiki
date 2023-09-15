@@ -8,41 +8,68 @@
 
 ## Danh sách nội dung
 
-- [Architecture](./contents/architecture/).
+- [Architecture](./contents/architecture/Overview.md).
 
   - Clean architect.
   - MVC architect.
+  - Microservices.
+  - Monolith.
 
-- [Databases](./contents/databases/).
+- [CI/CD](./contents/ci-cd/Overview.md).
 
+  - Docker.
+  - Kubernates.
+  - Jenkin.
+
+- [Databases](./contents/databases/Overview.md).
+
+  - CassandraDB.
   - MongoDB.
   - SQL.
-  - CassandraDB.
   - Redis.
 
-- [Design patterns](./contents/design-patterns/).
+- [Design patterns](./contents/design-patterns/Overview.md).
 
   - Singleton.
   - Factory.
   - Builder.
 
-- [Data structure & Algorithm](./contents/dsa/).
+- [Data structure & Algorithm](./contents/dsa/Overview.md).
 
-  - BigO.
-  - Stack.
-  - Queue.
-  - Hashmap.
-  - LinkedHashMap.
-  - List.
-  - LinkedList.
+  - Data structures.
+    - BigO.
+    - Stack.
+    - Queue.
+    - Hashmap.
+    - LinkedHashMap.
+    - List.
+    - LinkedList.
+  - Algorithm
+    - Bubble sort.
+    - Insertion sort.
+    - Selection sort.
+    - Binary search.
+    - Inline search.
 
-  - [Mobile](./contents/mobile/).
+- [Message queue](./contents/message-queues/Overview.md).
+  
+  - Apache Kafka.
+  - RabitMQ.
+
+- [Mobile](./contents/mobile/Overview.md).
 
   - Flutter.
 
-- [Others](./contents/others/).
+- [Others](./contents/others/Overview.md).
 
-- [Programming languages](./contents/programming-languages/).
+  - Bash.
+  - Chocolatey.
+  - Commandline.
+  - Homebrew.
+  - Git.
+  - Postman.
+
+- [Programming languages](./contents/programming-languages/Overview.md).
 
   - Golang.
   - Java.
@@ -53,12 +80,19 @@
   - Python.
   - Dart.
 
-- [Search engines](./contents/search-engines/).
+- [Programming techniques](./contents/programming-techniques/Overview.md).
+
+  - Aspect Oriented Programming.
+  - Dependcies injection.
+  - Object Oriented Programming.
+  - Multithread Programming.
+
+- [Search engines](./contents/search-engines/Overview.md).
 
   - Elastic search.
   - Solr.
 
-- [Security](./contents/security/).
+- [Security](./contents/security/Overview.md).
 
   - API Security.
   - Data injecttion.
@@ -73,7 +107,7 @@
   - Integration test.
   - Automation test.
 
-- [Web Frameworks](./contents/web-frameworks/).
+- [Web Frameworks](./contents/web-frameworks/Overview.md).
 
   - Spring boot.
   - Fiber.
