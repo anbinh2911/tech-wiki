@@ -12,12 +12,20 @@
 
   - Clean architect.
   - MVC architect.
+  - Microservices.
+  - Monolith.
+
+- [CI/CD](./contents/ci-cd/Overview.md).
+
+  - Docker.
+  - Kubernates.
+  - Jenkin.
 
 - [Databases](./contents/databases/Overview.md).
 
+  - CassandraDB.
   - MongoDB.
   - SQL.
-  - CassandraDB.
   - Redis.
 
 - [Design patterns](./contents/design-patterns/Overview.md).
@@ -28,19 +36,38 @@
 
 - [Data structure & Algorithm](./contents/dsa/Overview.md).
 
-  - BigO.
-  - Stack.
-  - Queue.
-  - Hashmap.
-  - LinkedHashMap.
-  - List.
-  - LinkedList.
+  - Data structures.
+    - BigO.
+    - Stack.
+    - Queue.
+    - Hashmap.
+    - LinkedHashMap.
+    - List.
+    - LinkedList.
+  - Algorithm
+    - Bubble sort.
+    - Insertion sort.
+    - Selection sort.
+    - Binary search.
+    - Inline search.
 
-  - [Mobile](./contents/mobile/Overview.md).
+- [Message queue](./contents/message-queues/Overview.md).
+  
+  - Apache Kafka.
+  - RabitMQ.
+
+- [Mobile](./contents/mobile/Overview.md).
 
   - Flutter.
 
 - [Others](./contents/others/Overview.md).
+
+  - Bash.
+  - Chocolatey.
+  - Commandline.
+  - Homebrew.
+  - Git.
+  - Postman.
 
 - [Programming languages](./contents/programming-languages/Overview.md).
 
@@ -56,6 +83,7 @@
 - [Programming techniques](./contents/programming-techniques/Overview.md).
 
   - Aspect Oriented Programming.
+  - Dependcies injection.
   - Object Oriented Programming.
   - Multithread Programming.
 
