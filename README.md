@@ -41,10 +41,11 @@
   - BigO.
   - Stack.
   - Queue.
+  - Array.
+  - LinkedList.
   - Hashmap.
   - LinkedHashMap.
-  - List.
-  - LinkedList.
+  - Set.
 - Algorithm
   - Bubble sort.
   - Insertion sort.
