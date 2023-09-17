@@ -10,9 +10,10 @@
 
 ### [Architecture](./contents/architecture/Overview.md)
 
-- Clean architect.
+- [Clean architecture](./contents/architecture/clean-architecture.md).
 - MVC architect.
 - Microservices.
+- gRPC.
 - Monolith.
 
 ### [CI/CD](./contents/ci-cd/Overview.md)
