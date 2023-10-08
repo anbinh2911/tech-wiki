@@ -17,8 +17,7 @@ Một số thư viện/framework tiêu biểu của golang:
 
 ## Nội dung tìm hiểu
 
-- Commandline.
-- Syntax.
+- [Syntax](./GL01-Syntax.md).
 - Comments.
 - Variables & Constants.
 - Data types.
@@ -29,7 +28,7 @@ Một số thư viện/framework tiêu biểu của golang:
 - Loops.
 - Functions.
 - Struct.
-- Generic.
+- Generics.
 - Concurrent.
 
 ## Tài liệu tham khảo
