@@ -73,7 +73,7 @@
 
 ### [Programming languages](./contents/programming-languages/Overview.md)
 
-- Golang.
+- [Golang](./contents/programming-languages/golang/Overview.md)
 - Java.
 - Kotlin.
 - HTML.
