@@ -53,5 +53,4 @@ Sử dụng từ khoá ```import``` để thêm vào trong file các thư viện
 
 ## Tiếp theo
 
-- Comments.
-- Variables & Constants.
+- [Comments](./GL02-Comments.md).
